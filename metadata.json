@@ -1,0 +1,6 @@
+{
+  "name": "Singularity Lab — Buchi Neri & Relatività",
+  "description": "Simulazioni interattive 3D e 2D, dimostrazioni fisiche e matematiche dei buchi neri: metrica di Schwarzschild, buchi neri rotanti di Kerr, lente gravitazionale, disco di accrescimento e dilatazione temporale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
